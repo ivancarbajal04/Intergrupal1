@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://i.pinimg.com/200x150/81/7e/79/817e79c49c3ad495bf556041dd291206.jpg);
+}
+
+.contenedor{
+    background-color: cornflowerblue;
+    margin-right: 65%;
+    margin-bottom: 10px;
+    padding: 40px;
+    border: 2px solid black ;
+    border-radius: 20px;
+}
+
+#imagenLeon{
+    width: 500px;
+    height: 400px;
+    border-radius: 70%;
+}
+
